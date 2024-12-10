@@ -8,7 +8,7 @@ I am a second-year undergraduate student at Wellesley College, double majoring i
 
 ---
 
-## 🛠 What You'll Find Here:
+## 💡 What You'll Find Here:
 - **AI Research Projects**: Enhancing machine learning models for real-world applications.
 - **Fintech Innovation**: Projects like [CurrentC](http://currentc.wiki), a platform optimizing currency exchange using real-time data.
 - **Data-Driven Research**: Analyzing and modeling large-scale datasets to uncover insights and improve decision-making.
