@@ -35,16 +35,6 @@ I am a second-year undergraduate student at Wellesley College, double majoring i
 - **LinkedIn**: [linkedin.com/in/han-nnguyen](https://www.linkedin.com/in/han-nnguyen)
 - **Email**: hn103@wellesley.edu
 
-
-
-## 📊 My GitHub Stats
-
-![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanxngn05&show_icons=true&theme=radical)
-
-### 🚀 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanxngn05&layout=compact&theme=radical)
-
 ---
 
 Feel free to explore my repositories and reach out if you want to collaborate or discuss opportunities. Let's create something impactful together!
