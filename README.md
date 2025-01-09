@@ -4,7 +4,7 @@
 
 # Hi! I'm Han Nguyen 👋
 
-I am a second-year undergraduate student at Wellesley College, double majoring in Data Science and Economics, with cross-registration at MIT. My GitHub showcases projects, research, and initiatives driven by a passion for leveraging data and technology to solve real-world problems. I’m particularly interested in fintech, AI, and quantitative finance as I work towards a career in data-driven industries.
+I am a second-year undergraduate student at Wellesley College, double majoring in Computer Science and Mathematics, with cross-registration at MIT. My GitHub showcases projects, research, and initiatives driven by a passion for leveraging data and technology to solve real-world problems. I’m particularly interested in fintech, AI, and quantitative finance as I work towards a career in data-driven industries.
 
 ---
 
